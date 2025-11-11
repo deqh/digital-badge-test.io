@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v3",
+  "type": "Issuer",
+  "id": "https://api.my-team-dev.com/issuer/cert-academy",
+  "name": "C# Certification Academy",
+  "url": "https://github.com/deqh/digital-badge-test.io",
+  "email": "badges@cert-academy.com",
+  "description": "A professional training organization focused on advanced .NET and C# development."
+}

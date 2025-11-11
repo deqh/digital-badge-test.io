@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v3",
+  "type": "BadgeClass",
+  "id": "https://api.my-team-dev.com/badge/csharp-expert-2025",
+  "name": "Advanced C# Developer (2025)",
+  "description": "Awarded for passing the advanced object-oriented design and concurrency module.",
+  "image": "https://github.com/deqh/digital-badge-test.io/badge-preview.png",
+  "criteria": {
+    "type": "Criteria",
+    "narrative": "The recipient successfully completed a 40-hour module, achieved 90%\u002B on the final exam, and submitted a project demonstrating advanced C# features."
+  }
+}
