@@ -1,0 +1,20 @@
+{
+  "@context": "https://w3id.org/openbadges/v3",
+  "type": "Assertion",
+  "id": "https://github.com/deqh/digital-badge-test.io/blob/main/4a0cb128-e6a7-4fb5-8f7e-af6263300ef3.json",
+  "recipient": {
+    "type": "CryptographicKey",
+    "hashed": true,
+    "identity": "sha256$86e0b9e56c17cc4d12387e1949b85053fbe73bc3ce5a1188713a9d300cc6133d"
+  },
+  "badge": "https://github.com/deqh/digital-badge-test.io/blob/main/badgeclass.json",
+  "issuedOn": "2025-11-11T14:31:08Z",
+  "verification": {
+    "type": "HostedVerification"
+  },
+  "proof": {
+    "type": "JsonWebSignature2020",
+    "jws": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjUtMTAtMjUtNDIifQ.eyJpc3MiOiJodHRwczovL2FwaS5teS10ZWFtLWRldi5jb20vaXNzdWVyL2NlcnQtYWNhZGVteSIsInN1YiI6InNoYTI1NiRjOTUwNDJmZjc2YzA4MDNjNmM1YTQ4MTZhM2UxM2QyNGYwN2EzYTBhMDZiNDgzYzFkM2E4NTk0ZDUzY2UxN2JkIiwiaWF0IjoxNjY3NjcxNzYwfQ.Q_oT_Hl3sS-E9Yh9X3hPj6g8_kX5-A4z2vB7vYwV5Z_y0Uf6e7K8E0D7W1N6J8V0X7X8F5G3L8C4K9",
+    "creator": "https://github.com/deqh/digital-badge-test.io/blob/main/issuer.json"
+  }
+}
