@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v3",
   "type": "Issuer",
-  "id": "https://github.com/deqh/digital-badge-test.io",
+  "id": "https://github.com/deqh/digital-badge-test.io/issuer.json",
   "name": "C# Certification Academy",
   "url": "https://github.com/deqh/digital-badge-test.io",
   "email": "badges@cert-academy.com",
